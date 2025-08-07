@@ -1,4 +1,4 @@
-# DEEP IN SYSTEM
+# UBUNTU SERVER
 
 ## Introduction
 Ce projet vise à mettre en place et administrer un serveur Ubuntu en configurant divers aspects tels que la sécurité, le réseau, la gestion des utilisateurs, et l'installation de services populaires comme un serveur FTP, MySQL, et WordPress.
